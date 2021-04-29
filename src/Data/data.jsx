@@ -1,0 +1,37 @@
+export default [{
+    id:1,
+    name:'Vikas',
+    age:'25',
+    dob:'03/01/1996',
+    image:'https://picsum.photos/id/1/200/300'
+},{
+    id:2,
+    name:'Varun',
+    age:'25',
+    dob:'16/08/1996',
+    image:'https://picsum.photos/id/1005/200/300'
+},{
+    id:3,
+    name:'Varun Tunga',
+    age:'25',
+    dob:'21/04/1996',
+    image:'https://picsum.photos/id/1011/200/300'
+},{
+    id:4,
+    name:'Sagar',
+    age:'25',
+    dob:'23/10/1996',
+    image:'https://picsum.photos/id/1025/200/300'
+},{
+    id:5,
+    name:'Praveen',
+    age:'25',
+    dob:'03/06/1996',
+    image:'https://picsum.photos/id/1014/200/300'
+},{
+    id:1,
+    name:'Nikhil',
+    age:'25',
+    dob:'03/08/1996',
+    image:'https://picsum.photos/id/1012/200/300'
+}]
